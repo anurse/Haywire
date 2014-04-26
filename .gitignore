@@ -14,6 +14,7 @@
 
 # Visual Studio uglies
 *.v11.suo
+*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 *.opensdf
@@ -23,3 +24,7 @@
 # Build artifacts
 Default/
 Debug/
+
+bin/gyp/
+lib/
+*.sln
